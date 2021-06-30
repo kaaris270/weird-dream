@@ -1,0 +1,85 @@
+.logo img{
+    width: 5rem;
+}
+footer{
+    background-image: url(./assetpro/concept-art-london-steampunk-credit-to.jpg);
+    width: 100%;
+    background-size: cover;
+}
+.titre{
+    width: 15rem;
+}
+.police1{
+    font-size: 1.5rem;
+}
+header{
+    background-image: url(./assetpro/papier-weird-dream-1.png);
+    
+}
+.claire{
+    color: white;
+    font-size: 1.5rem;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+.taille1{
+    font-size: 1.5em;
+}
+body{
+    background-image: url(./assetpro/papier-weird-dream-body.png);
+    background-size: cover;
+}
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+form {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    background-color: #d0c7f1;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #aab4cf;
+    border: 1px solid #aeb7d6;
+}
+.fondblanc{
+    background-color: rgba(253, 253, 253, 0.425);
+    box-shadow: 0 0 20px 0 rgba(44, 44, 44, 0.062), 0 2px 2px 0 rgba(44, 44, 44, 0.062);
+}
+.tesnoir{
+    color: black;
+}
+.forum{
+    background-color: rgba(255, 255, 255, 0.842);
+}
+.pseudo{
+    color: rgb(0, 68, 255);
+}
