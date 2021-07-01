@@ -13,7 +13,7 @@ footer{
     font-size: 1.5rem;
 }
 header{
-    background-image: url(./assetpro/papier-weird-dream-1-min.png);
+    background-image: url(./assetpro/papier-weird-dream-1-min.webp);
     
 }
 .claire{
@@ -28,7 +28,7 @@ a{
     font-size: 1.5em;
 }
 body{
-    background-image: url(./assetpro/papier-weird-dream-body-min.png);
+    background-image: url(./assetpro/papier-weird-dream-body-min.webp);
     background-size: cover;
 }
 #container{
