@@ -25,7 +25,7 @@ a{
     text-decoration: inherit;
 }
 .sombre:hover{
-    color: rgb(19, 19, 19) !important;
+    color: rgb(208, 167, 255) !important;
 }
 .taille1{
     font-size: 1.5em;
@@ -85,4 +85,7 @@ input[type=submit]:hover {
 }
 .pseudo{
     color: rgb(0, 68, 255);
+}
+button :hover{
+    color: white;
 }
