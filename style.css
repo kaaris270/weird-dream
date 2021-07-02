@@ -24,8 +24,8 @@ a{
     color: inherit;
     text-decoration: inherit;
 }
-a :hover{
-    color: grey;
+a:hover{
+    color: rgb(19, 19, 19) !important;
 }
 .taille1{
     font-size: 1.5em;
